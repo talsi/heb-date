@@ -1,9 +1,9 @@
 # heb-date
 Hebrew Date Format - Javascript
 
-result: 
-יום חמישי, 3 לדצמבר, 2015
-
-usage:
-var date = new Date();
+## usage:
+var date = new Date(); <br/>
 date.toHebrew();
+
+## result:
+יום חמישי, 3 לדצמבר, 2015
