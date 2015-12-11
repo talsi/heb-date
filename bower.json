@@ -4,6 +4,7 @@
   "authors": [
     "Talsi"
   ],
+  "main": "heb-date.js",
   "ignore": [".gitignore"],
   "description": "Hebrew Date Format - Javascript",
   "license": "MIT"
