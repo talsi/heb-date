@@ -1,0 +1,11 @@
+{
+    "name": "heb-date",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "author": "TalSi",
+    "description": "a simple to-hebrew date parser",
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    }
+}
