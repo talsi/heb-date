@@ -1,6 +1,6 @@
 {
     "name": "heb-date",
-    "preferGlobal": true,
+    "preferGlobal": false,
     "version": "0.0.1",
     "author": "TalSi",
     "description": "a simple to-hebrew date parser",
