@@ -6,4 +6,4 @@ var date = new Date(); <br/>
 date.toHebrew();
 
 ## result:
-יום חמישי, 3 לדצמבר, 2015
+יום חמישי, 3 בדצמבר, 2015
