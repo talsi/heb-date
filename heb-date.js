@@ -35,13 +35,13 @@
         dateString += days[this.getDay()];
         dateString += ', ';
         dateString += ' ' + this.getDate();
-        dateString += ' ל';
+        dateString += ' ב';
         dateString += months[this.getMonth()];
         dateString += ', ' + this.getFullYear();
 
         return dateString;
     };
 
-    /* יום חמישי, 3 לדצמבר, 2015 */
+    /* יום חמישי, ב לדצמבר, 2015 */
 
 })();
